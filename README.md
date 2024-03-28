@@ -3,8 +3,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafa-akilli" alt="mustafa-akilli" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript, node.js**
 
 - 📫 How to reach me **makilli2867@gmail.com**
@@ -22,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-akilli&show_icons=true&locale=en" alt="mustafa-akilli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-akilli&" alt="mustafa-akilli" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafa-akilli" alt="mustafa-akilli" /></a> </p>
